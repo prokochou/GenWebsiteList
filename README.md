@@ -11,3 +11,6 @@ Run Test
 
 Go to the folder: cd genSiteLink
 python outputToHTML.py
+
+Result:
+After running the program, the new HTML file, webPage_new.html, will be generated.
